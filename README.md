@@ -4,7 +4,7 @@ This project is focused on utilizing a robot car with a vacuum attachment which 
 ![Headstone Image](Floor_Cleaning_Robot.HEIC)
 
 # Code
-- [Complete Foor Cleaning Code](Floor_Cleaning_Robot.ino)
+- [Complete Floor Cleaning Code](Floor_Cleaning_Robot.ino)
 
 # Bill of Materials
 
