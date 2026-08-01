@@ -6,6 +6,9 @@ This project is focused on utilizing a robot car with a vacuum attachment which 
 # Code
 - [Complete Floor Cleaning Code](Floor_Cleaning_Robot.ino)
 
+# Schematics
+![Headstone Image](Floor_Cleaning_Robot_Schematic.png)
+
 # Bill of Materials
 
 | **Part** | **Note** | **Price** | **Link** |
