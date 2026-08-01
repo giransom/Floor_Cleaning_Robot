@@ -10,7 +10,7 @@ This project is focused on utilizing a robot car with a vacuum attachment which 
 ![Headstone Image](Floor_Cleaning_Robot_Schematic.png)
 
 # Protect Notes: Challenges & Fixes
-In the completion of this project
+In the completion of this project there were a few issues with the completion of the project. Initially with the original design the robot car motor driver would be powered by the Arduino Car, but in testing the car unplugged form the computer the motors would not run. When further researching the motor driver uncovered the driver requires 5 volts exactly, which the Arduino board couldn't consistently provide when powered by a 9 volt in the barrel jack. The solution was to attach a separate 9 volt battery to the motor driver directly, which then provided enough power to the motor driver to drive both motors.
 
 # Bill of Materials
 
