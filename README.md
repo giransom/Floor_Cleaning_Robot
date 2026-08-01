@@ -9,6 +9,9 @@ This project is focused on utilizing a robot car with a vacuum attachment which 
 # Schematics
 ![Headstone Image](Floor_Cleaning_Robot_Schematic.png)
 
+# Protect Notes: Challenges & Fixes
+In the completion of this project
+
 # Bill of Materials
 
 | **Part** | **Note** | **Price** | **Link** |
